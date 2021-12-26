@@ -4,4 +4,3 @@ for i in range(b) :
         print()
     for j in range(a) :
         print("*",end="")
-
