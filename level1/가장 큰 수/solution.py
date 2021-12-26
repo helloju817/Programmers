@@ -8,5 +8,6 @@ def solution(numbers):
     """
     
     return answer
+
 #print(solution([6,0,2]))
 #print(solution([0,0,0]))
