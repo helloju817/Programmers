@@ -10,4 +10,4 @@ def solution(price, money, count):
 
     return answer
 
-print(solution(3,20,4))
+#print(solution(3,20,4))
