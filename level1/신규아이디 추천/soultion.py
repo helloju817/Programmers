@@ -34,5 +34,4 @@ def solution(new_id):
         ans+=ans[-1]
                  
     return ans
-
 #print(solution("...!@BaT#*..y.abcdefghijklm"))
