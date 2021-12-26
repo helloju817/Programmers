@@ -9,5 +9,4 @@ def solution(price, money, count):
         answer=0
 
     return answer
-
 #print(solution(3,20,4))
