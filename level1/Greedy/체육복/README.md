@@ -11,7 +11,7 @@
 * 
 ***
 ### 입출력 예
-![image](https://user-images.githubusercontent.com/76280200/153460102-a5777e98-b8a6-4154-9b65-12d443d7512b.png)***
+![image](https://user-images.githubusercontent.com/76280200/153460102-a5777e98-b8a6-4154-9b65-12d443d7512b.png)
 
 ### 입출력 예 설명
 * 예제 #1
