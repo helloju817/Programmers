@@ -23,5 +23,5 @@
 그리고 나머지 2편의 논문은 3회 이하 인용되었기 때문에 이 과학자의 H-Index는 3입니다.
 
 #### 출처
-<https://programmers.co.kr/learn/courses/30/lessons/42747>
+<https://programmers.co.kr/learn/courses/30/lessons/42747>        
 https://en.wikipedia.org/wiki/H-index "위키백과"
